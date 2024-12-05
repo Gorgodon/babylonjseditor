@@ -1,4 +1,8 @@
 {
+    "types": [
+        "babylonjs",
+        "anotherAwesomeDependency"
+    ],
 	"compilerOptions": {
 		"module": "Node16",
 		"target": "ES2022",
